@@ -94,8 +94,3 @@ Este proyecto es una herramienta de apoyo educativo creada por **Javier Díaz**.
 
 Dada la naturaleza específica del contenido, las contribuciones externas **no son necesarias**.
 Sin embargo, si deseas proponer mejoras o notificar un problema, puedes abrir un **issue** en este repositorio.
-
-```
-
-¿Quieres que te prepare también un **ejemplo mínimo de un archivo de test en JavaScript (ES6 module)** para que quede documentado en el README cómo añadir nuevos tests?
-```
