@@ -84,6 +84,13 @@ Este proyecto también está disponible como **GitHub Pages**, por lo que puedes
 
 👉 [Abrir la aplicación en GitHub Pages](https://heipry.github.io/Tests-autoevaluacion-MF1442-SSCE0110/)
 
+## 🔀 Versión randomizada
+
+Si usas como punto de entrada evaluacion.html, la aplicación selecciona preguntas de forma aleatoria y muestra únicamente 10 preguntas por intento, además de mezclar el orden de las respuestas en cada pregunta.
+Esto permite practicar con preguntas diferentes cada vez y simular una experiencia de examen más realista.
+
+👉 [Abrir el test randomizado en GitHub Pages](https://heipry.github.io/Tests-autoevaluacion-MF1442-SSCE0110/evaluacion.html)
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
