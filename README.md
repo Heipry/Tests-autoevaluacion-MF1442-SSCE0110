@@ -39,6 +39,15 @@ Esto permite una navegación clara y una integración sencilla de los datos en l
 ## 🚀 Uso
 
 Para utilizar los tests de forma local, es necesario servir los archivos desde un **servidor web**, ya que los navegadores bloquean las importaciones de módulos ES6 al abrir directamente el archivo `index.html` con `file://`.
+```bash
+# Clona el repositorio
+git clone https://github.com/Heipry/Tests-autoevaluacion-MF1442-SSCE0110.git
+
+# Navega al directorio
+cd Tests-autoevaluacion-MF1442-SSCE0110
+
+# Abre el archivo en tu navegador preferido mediante servidor web
+````
 
 Puedes usar cualquiera de estas opciones:
 
@@ -73,7 +82,7 @@ Esto iniciará un servidor y podrás acceder desde tu navegador en la URL que in
 
 Este proyecto también está disponible como **GitHub Pages**, por lo que puedes acceder a los tests directamente desde tu navegador sin necesidad de descargar nada:
 
-👉 [Abrir la aplicación en GitHub Pages](https://heipry.github.io/<nombre-del-repositorio>/)
+👉 [Abrir la aplicación en GitHub Pages](https://heipry.github.io/Tests-autoevaluacion-MF1442-SSCE0110/)
 
 ---
 
@@ -94,8 +103,3 @@ Este proyecto es una herramienta de apoyo educativo creada por **Javier Díaz**.
 
 Dada la naturaleza específica del contenido, las contribuciones externas **no son necesarias**.
 Sin embargo, si deseas proponer mejoras o notificar un problema, puedes abrir un **issue** en este repositorio.
-
-```
-
-¿Quieres que te prepare también un **ejemplo mínimo de un archivo de test en JavaScript (ES6 module)** para que quede documentado en el README cómo añadir nuevos tests?
-```
